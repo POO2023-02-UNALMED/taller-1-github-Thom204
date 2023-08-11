@@ -2,3 +2,6 @@ Thomas Monnier Granda
 18
 Me gustaria aprender mas sobre el aspecto practico y aplicado de la programacion.
 la carpeta con un archivo si es un commit valido
+
+
+es importante tener cuidado cuando se modifican 2 archivos al tiempo, dado que surgen conflictos a la hora de enviar los commit correspondientes
