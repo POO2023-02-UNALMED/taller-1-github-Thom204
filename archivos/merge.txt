@@ -1,3 +1,4 @@
 Thomas Monnier Granda
 18
 Me gustaria aprender mas sobre el aspecto practico y aplicado de la programacion.
+la carpeta con un archivo si es un commit valido
